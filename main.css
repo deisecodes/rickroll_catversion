@@ -1,0 +1,53 @@
+#inLine {
+    display: inline-block;
+    margin: 10px;
+    font-family:'Courier New', Courier, monospace;
+    color: gray;
+    font-weight: bold;
+}
+
+.divSmallimg {
+    margin: 30px;
+    padding: 10px;
+}
+
+.imgcenter {
+    height: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    display: flex;
+    object-fit: cover;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: azure;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+p {
+    text-align: center;
+    color: gray;
+    font-family: 'Courier New', Courier, monospace;
+}
+ 
+.divcenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ h3 {
+    text-align: center;
+    color: gray;
+    font-family: 'Courier New', Courier, monospace;
+ }
