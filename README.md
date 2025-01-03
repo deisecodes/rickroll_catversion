@@ -1,4 +1,3 @@
-# rickroll_catversion
-you have been cat rolled... by a cat!
+a prototype cat themed design with simple features inspired on a PDF viewer
 
 https://deisecodes.github.io/rickroll_catversion/
